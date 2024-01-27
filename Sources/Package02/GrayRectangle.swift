@@ -12,7 +12,7 @@ public struct GrayRectangle: View {
     public var body: some View {
         Rectangle()
             .foregroundStyle(.gray)
-            .frame(width: 200, height: 250)
+            .frame(width: 200, height: 260)
     }
 }
 
